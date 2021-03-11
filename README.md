@@ -23,4 +23,15 @@ In order to ensure that the Laravel community is welcoming to all, please review
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
-# CBS402A_project
+
+## Mandatory Features
+# A1. Strong Password (Done)
+# A2. Email Validation (Done)
+# A3. Session Restriction (Done)
+# B1. Access Control
+# B2. Log File
+# B3. Login Attempts (Ongoing)
+
+## Optional Features
+# A1. Captcha (Ongoing)
+# A2. Lock IP Address
